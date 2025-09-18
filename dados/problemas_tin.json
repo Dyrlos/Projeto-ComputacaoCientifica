@@ -1,0 +1,8 @@
+[
+    { "pergunta": "Ordenar uma lista de inteiros em ordem crescente", "resposta": "T" },
+    { "pergunta": "Verificar primalidade de um número muito grande (entrada em unário)", "resposta": "I" },
+    { "pergunta": "Problema da Parada (Halting Problem) para programas gerais", "resposta": "N" },
+    { "pergunta": "Encontrar o menor caminho em grafo com pesos não negativos (Dijkstra)", "resposta": "T" },
+    { "pergunta": "Determinar satisfatibilidade booleana (SAT) por força bruta", "resposta": "I" }
+  ]
+  

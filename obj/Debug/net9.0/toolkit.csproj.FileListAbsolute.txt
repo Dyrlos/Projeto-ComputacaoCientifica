@@ -1,0 +1,32 @@
+/home/raphael/Área de trabalho/Projeto/obj/Debug/net9.0/toolkit.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphael/Área de trabalho/Projeto/obj/Debug/net9.0/toolkit.AssemblyInfoInputs.cache
+/home/raphael/Área de trabalho/Projeto/obj/Debug/net9.0/toolkit.AssemblyInfo.cs
+/home/raphael/Área de trabalho/Projeto/obj/Debug/net9.0/toolkit.csproj.CoreCompileInputs.cache
+/home/raphael/Área de trabalho/Projeto/bin/Debug/net9.0/dados/problemas_tin.json
+/home/raphael/Área de trabalho/Projeto/bin/Debug/net9.0/dados/problema_instancia.json
+/home/raphael/Área de trabalho/Projeto/bin/Debug/net9.0/toolkit
+/home/raphael/Área de trabalho/Projeto/obj/Debug/net9.0/toolkit.dll
+/home/raphael/Área de trabalho/Projeto/obj/Debug/net9.0/refint/toolkit.dll
+/home/raphael/Área de trabalho/Projeto/obj/Debug/net9.0/toolkit.pdb
+/home/raphael/Área de trabalho/Projeto/bin/Debug/net9.0/toolkit.deps.json
+/home/raphael/Área de trabalho/Projeto/bin/Debug/net9.0/toolkit.runtimeconfig.json
+/home/raphael/Área de trabalho/Projeto/bin/Debug/net9.0/toolkit.dll
+/home/raphael/Área de trabalho/Projeto/bin/Debug/net9.0/toolkit.pdb
+/home/raphael/Área de trabalho/Projeto/obj/Debug/net9.0/toolkit.genruntimeconfig.cache
+/home/raphael/Área de trabalho/Projeto/obj/Debug/net9.0/ref/toolkit.dll
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/bin/Debug/net9.0/dados/problemas_tin.json
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/bin/Debug/net9.0/dados/problema_instancia.json
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/bin/Debug/net9.0/toolkit
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/bin/Debug/net9.0/toolkit.deps.json
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/bin/Debug/net9.0/toolkit.runtimeconfig.json
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/bin/Debug/net9.0/toolkit.dll
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/bin/Debug/net9.0/toolkit.pdb
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/obj/Debug/net9.0/toolkit.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/obj/Debug/net9.0/toolkit.AssemblyInfoInputs.cache
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/obj/Debug/net9.0/toolkit.AssemblyInfo.cs
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/obj/Debug/net9.0/toolkit.csproj.CoreCompileInputs.cache
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/obj/Debug/net9.0/toolkit.dll
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/obj/Debug/net9.0/refint/toolkit.dll
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/obj/Debug/net9.0/toolkit.pdb
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/obj/Debug/net9.0/toolkit.genruntimeconfig.cache
+/home/raphael/Área de trabalho/Projeto Computação Cientifica/obj/Debug/net9.0/ref/toolkit.dll

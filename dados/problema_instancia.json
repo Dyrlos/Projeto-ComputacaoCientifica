@@ -1,0 +1,7 @@
+[
+    { "frase": "Dado um grafo G e dois vértices s,t, existe caminho de s até t?", "rotulo": "P" },
+    { "frase": "Grafo específico com 5 vértices e arestas listadas; s=1, t=5", "rotulo": "I" },
+    { "frase": "Dado um número n, n é primo?", "rotulo": "P" },
+    { "frase": "n = 221; verificar se n é primo", "rotulo": "I" }
+  ]
+  

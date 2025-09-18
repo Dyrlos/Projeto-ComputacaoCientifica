@@ -1,0 +1,4 @@
+C:\Users\06003766\Desktop\Projeto\Projeto\obj\Debug\net8.0\toolkit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\06003766\Desktop\Projeto\Projeto\obj\Debug\net8.0\toolkit.AssemblyInfoInputs.cache
+C:\Users\06003766\Desktop\Projeto\Projeto\obj\Debug\net8.0\toolkit.AssemblyInfo.cs
+C:\Users\06003766\Desktop\Projeto\Projeto\obj\Debug\net8.0\toolkit.csproj.CoreCompileInputs.cache
